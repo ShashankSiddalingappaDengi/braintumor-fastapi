@@ -27,14 +27,15 @@ Docker
 GitHub Actions (CI/CD pipeline)
 
 ## 📂 Project Structure
-braintumor-fastapi/
-│── app.py # FastAPI app (prediction endpoint)
-│── transformer.py # Vision Transformer model definition
-│── requirements.txt # Dependencies
-│── Dockerfile # Docker build instructions
-│── brain_tumer.ipynb # Training notebook (optional)
-│── .github/workflows/ # GitHub Actions pipeline
-│── README.md
+
+- `app.py` → FastAPI app (prediction endpoint)  
+- `transformer.py` → Vision Transformer model definition  
+- `requirements.txt` → Dependencies  
+- `Dockerfile` → Docker build instructions  
+- `brain_tumer.ipynb` → Training notebook (optional)  
+- `.github/workflows/` → GitHub Actions pipeline  
+- `README.md`
+
 
 🚀 Run FastAPI Locally
 1️⃣ Clone the repo
