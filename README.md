@@ -1,4 +1,6 @@
 🧠 Brain Tumor Detection with FastAPI + Vision Transformer + Docker
+🌐 **Live Demo:** [http://13.60.162.145/docs](http://13.60.162.145/docs)
+
 📌 Overview
 
 This project provides a FastAPI application for brain tumor classification using a Vision Transformer (ViT) model.
